@@ -1,0 +1,6 @@
+[17-Aug-2017 09:08:10 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '{' in /home/impakthub/public_html/impakthub/application/controllers/Custom_designed_projects.php on line 4
+[17-Aug-2017 09:27:09 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/impakthub/public_html/impakthub/application/views/pages.php on line 17
+[17-Aug-2017 09:27:35 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/impakthub/public_html/impakthub/application/views/pages.php on line 17
+[21-Aug-2017 13:46:08 UTC] PHP Fatal error:  Call to a member function ChangePassword() on null in /home/impakthub/public_html/impakthub/application/controllers/Administrator.php on line 67
+[21-Aug-2017 13:49:51 UTC] PHP Fatal error:  Call to a member function ChangePassword() on null in /home/impakthub/public_html/impakthub/application/controllers/Administrator.php on line 67
+[21-Aug-2017 13:49:51 UTC] PHP Fatal error:  Call to a member function ChangePassword() on null in /home/impakthub/public_html/impakthub/application/controllers/Administrator.php on line 67
